@@ -140,4 +140,7 @@
         width: 75%;
         gap: 25px;
     }
+    .product-price{
+        font-size: 29px;
+    }
 }
